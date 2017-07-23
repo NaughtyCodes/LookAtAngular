@@ -2,6 +2,7 @@
 An  example about angular components 
 
 ref:
+
 app.config : http://plnkr.co/edit/schSWAiQwP41S5eR2bqn?p=preview
 
 providers : https://egghead.io/lessons/angularjs-providers
